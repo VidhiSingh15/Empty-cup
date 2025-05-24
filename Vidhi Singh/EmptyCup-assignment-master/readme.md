@@ -1,6 +1,4 @@
-## DEMOSTRATION  VIDEO 
-
-🎥 :  https://youtu.be/ODrfiCz9B48
+## DEMOSTRATION  
 
 ## In line with my assignment, I've ensured that the UI is responsive. 
 
@@ -80,18 +78,11 @@ docker-compose down
 ###Video Demo : wait few seconds to load video
 
 
-
-https://github.com/thisismrsanjay/EmptyCup-assignment/assets/37665041/58516fa1-f5f2-4025-87f9-7460d3b622d4
-
-
 ## 3.  Server 🖥️
 
 ### 3.1 .  Flask Server  at port 5000  + feaching in frontend + ShortlistFunctionality 
 #### Flask Server Demo : wait few seconds to load video
 
-
-
-https://github.com/thisismrsanjay/EmptyCup-assignment/assets/37665041/ee2f9820-2cd0-4849-bdcd-f50df708670d
 
 
  
@@ -100,26 +91,18 @@ https://github.com/thisismrsanjay/EmptyCup-assignment/assets/37665041/ee2f9820-2
 #### Demo showcasing data on cloud also altering database data changes the frontend 
 
 
-https://github.com/thisismrsanjay/EmptyCup-assignment/assets/37665041/7903abc2-7941-49db-aa0b-3d551483815b
-
 
 ## 4. Deployment 🌐
 
 4.1 Docker Deplyed Demo
 
-
-
-
-https://github.com/thisismrsanjay/EmptyCup-assignment/assets/37665041/0b52c0e7-3290-481f-968a-d75024aa986c
-
 4.2 Deployed on AWS 
 
 listings-endpoint : https://jjk6hz2kxi.execute-api.us-west-2.amazonaws.com/listings
-frontend  : https://thisismrsanjay.github.io/EmptyCup-assignment/index3.html 
 
 4.3 Linked github with AWS using zeet so that whenever code changes in Github, it automatically deploys the latest code. 
-![Screenshot 2023-12-11 184702](https://github.com/thisismrsanjay/EmptyCup-assignment/assets/37665041/04e5e96d-d00a-4560-9d09-198b24de37d5)
 
+##5. deployying on netlify
 
 ## Contact me 
 
